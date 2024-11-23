@@ -25,7 +25,7 @@ GESIA's **NZC Token** leverages blockchain technology to transparently manage ca
 
 - **Token Standard**: Designed based on ERC-20
 - **Ecosystem Consensus Algorithm**: Net Zero Consensus Algorithm
-- **Deployment Address**: *(Ethereum Chain - `0x719DeB67fEC9b4C7233B0cF6415F5dC80b6c62d3`)*
+- **Deployment Address**: *( [Ethereum Chain - `0x719DeB67fEC9b4C7233B0cF6415F5dC80b6c62d3`](https://etherscan.io/token/0x719deb67fec9b4c7233b0cf6415f5dc80b6c62d3))*
 - **Decimal Precision**: Up to 18 decimal places
 - **Total Supply**: 5,000,000,000 NZC
 
