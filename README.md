@@ -1,6 +1,6 @@
 # **NZC (Net Zero Climate): A Net Zero Solution to Overcome the Climate Crisis**
 
----
+--
 
 ## **Introduction**
 
